@@ -1,6 +1,6 @@
 ## Number Theory :
 
-Articles to read :
+Theory:
 - http://theoryofprogramming.com/2014/12/24/modular-arithmetic-properties/
 - https://www.google.co.in/amp/s/www.geeksforgeeks.org/modular-exponentiation-recursive/amp/
 - https://discuss.codechef.com/questions/20451/a-tutorial-on-fast-modulo-multiplication-exponential-squaring
@@ -17,7 +17,7 @@ Problems:
 
 ## Recursion :
 
-  Articles to read :
+Theory:
 - http://www.geeksforgeeks.org/recursion/    ( along with some solved examples )
 - https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
 - https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/
